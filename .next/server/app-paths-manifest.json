@@ -1,0 +1,8 @@
+{
+  "/area-converter/page": "app/area-converter/page.js",
+  "/energy-converter/page": "app/energy-converter/page.js",
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/currency-converter/page": "app/currency-converter/page.js",
+  "/speed-converter/page": "app/speed-converter/page.js"
+}
