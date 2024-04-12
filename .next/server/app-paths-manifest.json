@@ -1,8 +1,8 @@
 {
-  "/area-converter/page": "app/area-converter/page.js",
-  "/energy-converter/page": "app/energy-converter/page.js",
+  "/speed-converter/page": "app/speed-converter/page.js",
   "/page": "app/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/currency-converter/page": "app/currency-converter/page.js",
-  "/speed-converter/page": "app/speed-converter/page.js"
+  "/time-converter/page": "app/time-converter/page.js",
+  "/temperature-converter/page": "app/temperature-converter/page.js",
+  "/power-converter/page": "app/power-converter/page.js",
+  "/mass-converter/page": "app/mass-converter/page.js"
 }

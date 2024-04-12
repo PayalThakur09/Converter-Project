@@ -11,35 +11,50 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/area-converter/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/area-converter/page.js"
-    ],
     "/currency-converter/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/currency-converter/page.js"
+    ],
+    "/area-converter/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/area-converter/page.js"
     ],
     "/energy-converter/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/energy-converter/page.js"
     ],
-    "/time-converter/page": [
+    "/force-converter/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/time-converter/page.js"
+      "static/chunks/app/force-converter/page.js"
+    ],
+    "/mass-converter/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/mass-converter/page.js"
+    ],
+    "/power-converter/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/power-converter/page.js"
+    ],
+    "/speed-converter/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/speed-converter/page.js"
     ],
     "/temperature-converter/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/temperature-converter/page.js"
     ],
-    "/speed-converter/page": [
+    "/time-converter/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/speed-converter/page.js"
+      "static/chunks/app/time-converter/page.js"
     ]
   }
 }
