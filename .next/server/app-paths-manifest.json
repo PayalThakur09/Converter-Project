@@ -1,8 +1,3 @@
 {
-  "/speed-converter/page": "app/speed-converter/page.js",
-  "/page": "app/page.js",
-  "/time-converter/page": "app/time-converter/page.js",
-  "/temperature-converter/page": "app/temperature-converter/page.js",
-  "/power-converter/page": "app/power-converter/page.js",
-  "/mass-converter/page": "app/mass-converter/page.js"
+  "/page": "app/page.js"
 }
